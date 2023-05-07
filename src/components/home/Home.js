@@ -83,7 +83,7 @@ function Home() {
           className="col-lg-6 col-md-6 col-sm-6 col-12"
           style={{ marginTop: "2.5rem" }}
         >
-          <NedenBercislina />
+          <NedenBercislina/>
         </div>
       </div>
     </div>
