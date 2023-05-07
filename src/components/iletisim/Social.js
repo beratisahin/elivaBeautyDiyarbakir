@@ -61,7 +61,7 @@ function Iletisim() {
         </p>
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
-        <a href="https://www.instagram.com/elivabeauty.diyarbakır/" target="_blank">
+        <a href="https://www.instagram.com/elivabeauty.diyarbakir/" target="_blank">
           <img src={i5} className="contactIcons" title="Instagram için İkona Tıklayınız"></img>
         </a>
         <p className="contactText">
@@ -71,7 +71,7 @@ function Iletisim() {
       </div>
       <div class="col-lg-2s col-md-2 col-sm-12 col-12 p-5">
         <a
-          href="https://www.facebook.com/elivabeautydiyarbakır"
+          href="https://www.facebook.com/elivabeautydiyarbakir"
           target="_blank"
         >
           <img src={i6} className="contactIcons" title="Facebook için İkona Tıklayınız"></img>
